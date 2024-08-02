@@ -8,4 +8,4 @@ litellm
 loguru
 click
 art
-git+https://github.com/Sunwood-ai-labs/NoteClient.git
+# git+https://github.com/Sunwood-ai-labs/NoteClient.git

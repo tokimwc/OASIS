@@ -1,0 +1,3 @@
+[submodule "src/NoteClient"]
+	path = src/NoteClient
+	url = https://github.com/tokimwc/NoteClient.git
